@@ -1,4 +1,8 @@
-# oci-hortonworks
+# oci-hortonworks  
+
+hazelcast-terraform-oracle-cloud  
+https://docs.google.com/spreadsheets/d/1RbTIA_83ZvYVCA9q7ybimA5zBD6a6jJ3Q5nRlpHB2WI/  
+
 These are Terraform modules that deploy [Hortonworks](https://hortonworks.com/products/) on [Oracle Cloud Infrastructure (OCI)](https://cloud.oracle.com/en_US/cloud-infrastructure).  They are developed jointly by Oracle and Cloudera.
 
 |                       | Worker Nodes   | Bastion Instance | Utility and Master Instances |
